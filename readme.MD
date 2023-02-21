@@ -1,5 +1,5 @@
 # gmake
-gmake is a simple command line tool to use Makefile in interactive way
+gmake(graphical make) is a simple command line tool to use Makefile in interactive way.(Sample `Makefile` in this repo is used in the below example)
 
 ![](https://github.com/ganeshdipdumbare/gmake/blob/main/demo.gif)
 
