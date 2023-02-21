@@ -1,4 +1,4 @@
-module gmake
+module github.com/ganeshdipdumbare/gmake
 
 go 1.20
 

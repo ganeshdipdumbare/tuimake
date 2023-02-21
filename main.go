@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"gmake/internal/makefile"
-	"gmake/internal/tui"
 	"os"
+
+	"github.com/ganeshdipdumbare/gmake/internal/makefile"
+	"github.com/ganeshdipdumbare/gmake/internal/tui"
 
 	"github.com/charmbracelet/bubbles/list"
 	tea "github.com/charmbracelet/bubbletea"
