@@ -34,13 +34,11 @@ func GetMakeTargets() []target {
 				continue
 			}
 
-			_, description, found := strings.Cut(after, "##")
-			if found {
-				targets = append(targets, target{
-					Name:        name,
-					Description: strings.TrimSpace(description),
-				})
-			}
+			_, description, _ := strings.Cut(after, "##")
+			targets = append(targets, target{
+				Name:        name,
+				Description: strings.TrimSpace(description),
+			})
 
 		}
 	}

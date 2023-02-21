@@ -19,7 +19,7 @@ tuimake(graphical make) is a simple command line tool to use Makefile in interac
     - Go 1.20
 - To install the tool, just run the following command
     ```bash
-    go install github.com/ganeshdipdumbare/tuimake@v0.1.4
+    go install github.com/ganeshdipdumbare/tuimake@v0.1.5
     ```
 ## Improvements
 - Add unit tests 
