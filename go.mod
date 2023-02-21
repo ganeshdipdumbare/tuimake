@@ -1,4 +1,4 @@
-module github.com/ganeshdipdumbare/gmake
+module github.com/ganeshdipdumbare/tuimake
 
 go 1.20
 

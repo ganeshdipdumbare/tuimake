@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ganeshdipdumbare/gmake/internal/makefile"
-	"github.com/ganeshdipdumbare/gmake/internal/tui"
+	"github.com/ganeshdipdumbare/tuimake/internal/makefile"
+	"github.com/ganeshdipdumbare/tuimake/internal/tui"
 
 	"github.com/charmbracelet/bubbles/list"
 	tea "github.com/charmbracelet/bubbletea"
