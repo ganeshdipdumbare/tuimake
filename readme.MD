@@ -19,7 +19,7 @@ gmake(graphical make) is a simple command line tool to use Makefile in interacti
     - Go 1.20
 - To install the tool, just run the following command
     ```bash
-    go install github.com/ganeshdipdumbare/gmake@v0.1.0
+    go install github.com/ganeshdipdumbare/gmake@v0.1.1
     ```
 ## Improvements
 - Add unit tests 
